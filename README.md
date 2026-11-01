@@ -1,5 +1,4 @@
-# -That-Guy-Catalytic-Node-Group-Ecology
-How one person changes a group: exploring catalytic nodes, emotional contagion, and group ecology.
+
 # "That Guy": The Catalytic Node in Group Ecology
 
 *A conceptual exploration of emotional contagion, social ecology, norm diffusion, and group climate.*
